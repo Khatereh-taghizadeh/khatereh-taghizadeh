@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Khatereh Taghizadeh 👋
 
-<!--
-**Khatereh-taghizadeh/khatereh-taghizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Engineer
 
-Here are some ideas to get you started:
+I'm building my skills and portfolio in data engineering, with a focus on designing data pipelines, working with databases, and transforming data into useful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Python
+- SQL
+- PostgreSQL
+- Git & GitHub
+- Data Cleaning & Transformation
+
+### 🚀 Currently Working On
+**Career Intelligence Platform** — a data engineering project that collects, cleans, stores, and analyzes job market data using Python, SQL, and PostgreSQL.
+
+### 🌱 Currently Learning
+- Data Engineering fundamentals
+- ETL / ELT pipelines
+- Advanced SQL
+- Database design
+- Git & GitHub workflows
+
+### 🎯 Career Goal
+I'm preparing for opportunities in Data Engineering, Analytics Engineering, and related data roles.
